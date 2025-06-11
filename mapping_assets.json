@@ -1,0 +1,57 @@
+{
+    "Prozesse": {
+        "ID": {"row": 6, "col": ["A"]},
+        "prozessname": {"row": 6, "col": ["B"]},
+        "kurzbeschreibung": {"row": 6, "col": ["C"]},
+        "vertraulichkeit": {"row": 6, "col": ["D"]},
+        "integrität": {"row": 6, "col": ["E"]},
+        "verfügbarkeit": {"row": 6, "col": ["F"]},
+        "sonstiges": {"row": 6, "col": ["G"]},
+        "begründung": {"row": 6, "col": ["H"]},
+        "kommentar": {"row": 6, "col": ["I"]},
+        "riskowner": {"row": 6, "col": ["J"]}
+    },
+    "Informationen": {
+        "ID": {"row": 6, "col": ["A"]},
+        "information": {"row": 6, "col": ["B"]},
+        "kurzbeschreibung": {"row": 6, "col": ["C"]},
+        "vertraulichkeit": {"row": 6, "col": ["D"]},
+        "integrität": {"row": 6, "col": ["E"]},
+        "verfügbarkeit": {"row": 6, "col": ["F"]},
+        "sonstiges": {"row": 6, "col": ["G"]},
+        "begründung": {"row": 6, "col": ["H"]},
+        "kommentar": {"row": 6, "col": ["I"]},
+        "riskowner": {"row": 6, "col": ["J"]}
+    },
+    "Anwend. & Dienste": {
+        "ID": {"row": 6, "col": ["A"]},
+        "anwendungs- / dienstname": {"row": 6, "col": ["B"]},
+        "kurzbeschreibung": {"row": 6, "col": ["C"]},
+        "vertraulichkeit": {"row": 6, "col": ["D"]},
+        "integrität": {"row": 6, "col": ["E"]},
+        "verfügbarkeit": {"row": 6, "col": ["F"]},
+        "sonstiges": {"row": 6, "col": ["G"]},
+        "begründung": {"row": 6, "col": ["H"]},
+        "kommentar": {"row": 6, "col": ["I"]},
+        "riskowner": {"row": 6, "col": ["J"]}
+    },
+    "Systeme": {
+        "ID": {"row": 6, "col": ["A"]},
+        "systemname": {"row": 6, "col": ["B"]},
+        "kurzbeschreibung": {"row": 6, "col": ["C"]},
+        "vertraulichkeit": {"row": 6, "col": ["D"]},
+        "integrität": {"row": 6, "col": ["E"]},
+        "verfügbarkeit": {"row": 6, "col": ["F"]},
+        "sonstiges": {"row": 6, "col": ["G"]},
+        "begründung": {"row": 6, "col": ["H"]},
+        "kommentar": {"row": 6, "col": ["I"]},
+        "riskowner": {"row": 6, "col": ["J"]}
+    },
+    "Relationen": {
+        "Prozess": {"row": 6, "col": ["A"]},
+        "Information": {"row": 6, "col": ["B"]},
+        "Anwendung / Dienst": {"row": 6, "col": ["C"]},
+        "Systemname I": {"row": 6, "col": ["D"]},
+        "Systemname II": {"row": 6, "col": ["E"]}
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "Intranet - zufällig": {
+        "sheet": "krit. Wert_Pers mit Netzzugang",
+        "schadenswirkung": {"rows": [19, 26], "cols": ["AO", "AT"]},
+        "wahrscheinlichkeit": {"rows": [19, 26], "col": "AV"},
+        "risikowert": {"rows": [19, 26], "col": "BB"}
+    },
+    "Intranet - vorsätzlich": {
+        "sheet": "krit. Wert_Pers mit Netzzugang",
+        "schadenswirkung": {"rows": [27, 34], "cols": ["AO", "AT"]},
+        "wahrscheinlichkeit": {"rows": [27, 34], "col": "AV"},
+        "risikowert": {"rows": [27, 34], "col": "BB"}
+    },
+    "Internet - zufällig": {
+        "sheet": "krit. Wert_Pers mit Netzzugang",
+        "schadenswirkung": {"rows": [35, 42], "cols": ["AO", "AT"]},
+        "wahrscheinlichkeit": {"rows": [35, 42], "col": "AV"},
+        "risikowert": {"rows": [35, 42], "col": "BB"}
+    },
+    "Internet - vorsätzlich": {
+        "sheet": "krit. Wert_Pers mit Netzzugang",
+        "schadenswirkung": {"rows": [43, 50], "cols": ["AO", "AT"]},
+        "wahrscheinlichkeit": {"rows": [43, 50], "col": "AV"},
+        "risikowert": {"rows": [43, 50], "col": "BB"}
+    },
+    "Insider - zufällig": {
+        "sheet": "krit. Wert_Pers mit phys Zugang",
+        "schadenswirkung": {"rows": [19, 26], "cols": ["AO", "AT"]},
+        "wahrscheinlichkeit": {"rows": [19, 26], "col": "AV"},
+        "risikowert": {"rows": [19, 26], "col": "BB"}
+    },
+    "Insider - vorsätzlich": {
+        "sheet": "krit. Wert_Pers mit phys Zugang",
+        "schadenswirkung": {"rows": [27, 34], "cols": ["AO", "AT"]},
+        "wahrscheinlichkeit": {"rows": [27, 34], "col": "AV"},
+        "risikowert": {"rows": [27, 34], "col": "BB"}
+    },
+    "Outsider - zufällig": {
+        "sheet": "krit. Wert_Pers mit phys Zugang",
+        "schadenswirkung": {"rows": [35, 42], "cols": ["AO", "AT"]},
+        "wahrscheinlichkeit": {"rows": [35, 42], "col": "AV"},
+        "risikowert": {"rows": [35, 42], "col": "BB"}
+    },
+    "Outsider - vorsätzlich": {
+        "sheet": "krit. Wert_Pers mit phys Zugang",
+        "schadenswirkung": {"rows": [43, 50], "cols": ["AO", "AT"]},
+        "wahrscheinlichkeit": {"rows": [43, 50], "col": "AV"},
+        "risikowert": {"rows": [43, 50], "col": "BB"}
+    },
+    "Fehlerhafte Software": {
+        "sheet": "krit. Wert_Techn Probleme",
+        "schadenswirkung": {"rows": [19, 26], "cols": ["W", "AB"]},
+        "wahrscheinlichkeit": {"rows": [19, 26], "col": "AD"},
+        "risikowert": {"rows": [19, 26], "col": "AJ"}
+    },
+    "Systemabsturz": {
+        "sheet": "krit. Wert_Techn Probleme",
+        "schadenswirkung": {"rows": [27, 34], "cols": ["W", "AB"]},
+        "wahrscheinlichkeit": {"rows": [27, 34], "col": "AD"},
+        "risikowert": {"rows": [27, 34], "col": "AJ"}
+    },
+    "Defekte Hardware": {
+        "sheet": "krit. Wert_Techn Probleme",
+        "schadenswirkung": {"rows": [35, 42], "cols": ["W", "AB"]},
+        "wahrscheinlichkeit": {"rows": [35, 42], "col": "AD"},
+        "risikowert": {"rows": [35, 42], "col": "AJ"}
+    },
+    "Schadprogramme": {
+        "sheet": "krit. Wert_Techn Probleme",
+        "schadenswirkung": {"rows": [43, 50], "cols": ["W", "AB"]},
+        "wahrscheinlichkeit": {"rows": [43, 50], "col": "AD"},
+        "risikowert": {"rows": [43, 50], "col": "AJ"}
+    },
+    "Energieversorgung": {
+        "sheet": "krit. Wert_Weit. Probl I",
+        "schadenswirkung": {"rows": [19, 26], "cols": ["W", "AB"]},
+        "wahrscheinlichkeit": {"rows": [19, 26], "col": "AD"},
+        "risikowert": {"rows": [19, 26], "col": "AJ"}
+    },
+    "Telekommunikation": {
+        "sheet": "krit. Wert_Weit. Probl I",
+        "schadenswirkung": {"rows": [27, 34], "cols": ["W", "AB"]},
+        "wahrscheinlichkeit": {"rows": [27, 34], "col": "AD"},
+        "risikowert": {"rows": [27, 34], "col": "AJ"}
+    },
+    "Netzwerk": {
+        "sheet": "krit. Wert_Weit. Probl I",
+        "schadenswirkung": {"rows": [35, 42], "cols": ["W", "AB"]},
+        "wahrscheinlichkeit": {"rows": [35, 42], "col": "AD"},
+        "risikowert": {"rows": [35, 42], "col": "AJ"}
+    },
+    "weitere Infrastruktur": {
+        "sheet": "krit. Wert_Weit. Probl I",
+        "schadenswirkung": {"rows": [43, 50], "cols": ["W", "AB"]},
+        "wahrscheinlichkeit": {"rows": [43, 50], "col": "AD"},
+        "risikowert": {"rows": [43, 50], "col": "AJ"}
+    },
+    "Mitarbeiterabwesenheit (temporär)": {
+        "sheet": "krit. Wert_Weit. Probl. II",
+        "schadenswirkung": {"rows": [19, 26], "cols": ["W", "AB"]},
+        "wahrscheinlichkeit": {"rows": [19, 26], "col": "AD"},
+        "risikowert": {"rows": [19, 26], "col": "AJ"}
+    },
+    "Mitarbeiterabwesenheit (permanent)": {
+        "sheet": "krit. Wert_Weit. Probl. II",
+        "schadenswirkung": {"rows": [27, 34], "cols": ["W", "AB"]},
+        "wahrscheinlichkeit": {"rows": [27, 34], "col": "AD"},
+        "risikowert": {"rows": [27, 34], "col": "AJ"}
+    },
+    "Dienstleister / Dritte": {
+        "sheet": "krit. Wert_Weit. Probl. II",
+        "schadenswirkung": {"rows": [35, 42], "cols": ["W", "AB"]},
+        "wahrscheinlichkeit": {"rows": [35, 42], "col": "AD"},
+        "risikowert": {"rows": [35, 42], "col": "AJ"}
+    },
+    "Höhere Gewalt": {
+        "sheet": "krit. Wert_Weit. Probl. II",
+        "schadenswirkung": {"rows": [43, 50], "cols": ["W", "AB"]},
+        "wahrscheinlichkeit": {"rows": [43, 50], "col": "AD"},
+        "risikowert": {"rows": [43, 50], "col": "AJ"}
+    }
+}
